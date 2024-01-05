@@ -36,7 +36,7 @@ _And also GoogleApi, Cron and Postman for testing API._
 
 #### Sheet
 
-> Your sheet should look like this: ![image](https://github.com/BigTako/shoes-api/assets/87268303/a4bda779-6dd0-4690-a264-2c73a83484a2)
+> Your sheet should look like this: ![image](https://github.com/BigTako/shoes-api/assets/87268303/0e6080ec-9e39-4d5e-9115-4f483a21ee7f)
 
 ### Project
 
